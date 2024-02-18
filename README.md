@@ -8,4 +8,4 @@
 
 ![IMG_20240129_111854](https://github.com/Ale-maker325/URAD32-LoRa/assets/75394336/ccfe7edf-15e4-4b7a-b3c6-74a4447217ab)
 ![IMG_20240129_111704](https://github.com/Ale-maker325/URAD32-LoRa/assets/75394336/e0955806-aeb8-4d61-8fd3-d09c8576aecf)
-![IMG_20240129_111135](https://github.com/Ale-maker325/URAD32-LoRa/assets/75394336/9db43aaf-76b7-481c-b1ed-42e6f3f02ff8)
+
